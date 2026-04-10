@@ -1,1 +1,1 @@
-# third-repo hello
+# This is my third repo for cloning use.
